@@ -38,3 +38,16 @@ body {
   position: relative;
   z-index: 1;
 }
+
+.content h1 {
+  font-size: 4.3rem;
+  margin-bottom: 0.8rem;
+  color: #fff44f;
+  font-family: "Dancing Script", cursive;
+}
+
+.content p {
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
